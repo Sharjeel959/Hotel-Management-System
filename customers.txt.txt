@@ -1,0 +1,5 @@
+Alice Johnson, Room 101, 2 nights
+Bob Smith, Room 102, 3 nights
+Charlie Lee, Room 103, 1 night
+Diana Wright, Room 104, 5 nights
+Edward Young, Room 105, 4 nights

@@ -1,0 +1,6 @@
+101|Presidential Suite|1200|0|0|
+102|Ocean View Double|800|0|0|
+103|Executive Single|550|0|0|
+104|Standard Single|250|0|0|
+105|Standard Double|350|0|0|
+111|single|10000|0|1|sh

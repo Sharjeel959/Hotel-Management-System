@@ -1,0 +1,31 @@
+QT       += core gui
+
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+
+TARGET = HotelManagement
+TEMPLATE = app
+
+SOURCES += main.cpp\
+    adminwindow.cpp \
+    guestwindow.cpp \
+    mainwindow.cpp \
+    registerwindow.cpp \
+    loginwindow.cpp \
+    hotelsystem.cpp \
+    hotellogowidget.cpp \
+    staffwindow.cpp
+
+HEADERS  += mainwindow.h \
+    adminwindow.h \
+    guestwindow.h \
+    registerwindow.h \
+    loginwindow.h \
+    hotelsystem.h \
+    hotellogowidget.h \
+    staffwindow.h
+
+FORMS    += \
+    registerwindow.ui \
+    loginwindow.ui
+
+RESOURCES += resources.qrc

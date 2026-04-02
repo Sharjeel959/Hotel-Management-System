@@ -1,0 +1,4 @@
+Sarah Jenkins|+15550101|General Manager|morning|85000
+Marcus Vance|+15550102|Head Concierge|evening|45000
+Elena Rossi|+15550103|Receptionist|night|32000
+AHmed|1029384756|Manager|morning|120000

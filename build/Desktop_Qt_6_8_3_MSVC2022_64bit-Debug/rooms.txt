@@ -1,0 +1,6 @@
+101,Single,Available,100.00
+102,Double,Occupied,150.00
+103,Suite,Available,200.00
+104,Single,Occupied,100.00
+1,Single,10000
+1,Single,10000

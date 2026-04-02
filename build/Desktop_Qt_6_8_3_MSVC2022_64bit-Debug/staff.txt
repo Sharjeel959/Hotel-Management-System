@@ -1,0 +1,4 @@
+John Doe,Reception,Morning
+Alice Smith,Housekeeping,Night
+Sharjeel,Manager,Night,03013112389,10000
+sd,hjk,ds,6789,789
