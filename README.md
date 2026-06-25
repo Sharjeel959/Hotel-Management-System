@@ -7,3 +7,8 @@ A Hotel Management System built using Qt (C++).
 - [@Romeshaafzaal](https://github.com/Romeshaafzaal)
 - [@Minahilbasalat](https://github.com/Minahilbasalat)
 - [@aliza-nadeem](https://github.com/aliza-nadeem)
+
+## Technologies Used
+- C++
+- Qt Framework
+- Object-Oriented Programming (OOP)
